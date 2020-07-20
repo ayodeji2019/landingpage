@@ -83,12 +83,12 @@ const VoomoCard = () => {
                 <br /> <br />
                 <br />
                 <a
-                  href="https://app.voomo.io/a/42/"
+                  href="https://app.voomo.io/a/542/"
                   target="_blank"
                   rel="noopener noreferrer"
                   title="The Smartcontract that will earn you money"
                 >
-                  <b>https://app.voomo.io/a/42/</b>
+                  <b>https://app.voomo.io/a/542/</b>
                 </a>
                 <br />
                 <br /> <br />
@@ -194,12 +194,12 @@ const VoomoCard = () => {
             <br /> <br />
             <p>
               <a
-                href="https://app.voomo.io/a/42/"
+                href="https://app.voomo.io/a/542/"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="The Smartcontract that will earn you money"
               >
-                <b>https://app.voomo.io/a/42/</b>
+                <b>https://app.voomo.io/a/542/</b>
               </a>
               <br />
               <br /> <br />
@@ -271,19 +271,19 @@ const VoomoCard = () => {
               <br /> <br />
               <br />
               <a
-                href="https://app.voomo.io/a/42/"
+                href="https://app.voomo.io/a/542/"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="The Smartcontract that will earn you money"
               >
-                <b>https://app.voomo.io/a/42/</b>
+                <b>https://app.voomo.io/a/542/</b>
               </a>
               <br />
               <br /> <br />
               <br />
               <a
                 className="button"
-                href="https://app.voomo.io/a/42/"
+                href="https://app.voomo.io/a/542/"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="The Smartcontract that will earn you money"

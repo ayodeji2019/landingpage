@@ -4,7 +4,7 @@ const CustomForm = () => {
   return (
     <div>
       <Mailchimp
-        action="https://gmail.us10.list-manage.com/subscribe/post?u=30daa631debe9c059299c8e7a&amp;id=bb6e405363"
+        action="https://cheapsms.us10.list-manage.com/subscribe/post?u=26cdaba5e0f7e62010fa2274f&amp;id=58e480a002"
         fields={[
           {
             name: "EMAIL",
@@ -54,65 +54,3 @@ const CustomForm = () => {
 };
 
 export default CustomForm;
-
-{
-  /* 
-<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div> 
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_30daa631debe9c059299c8e7a_bb6e405363" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div> */
-}
-{
-  /* <Mailchimp
-action="https://gmail.us10.list-manage.com/subscribe/post?u=30daa631debe9c059299c8e7a&amp;id=bb6e405363"
-fields={[
-  {
-    name: "EMAIL",
-    placeholder: "Email",
-    type: "email",
-    required: true,
-  },
-  {
-    name: "FNAME",
-    placeholder: "Your Name?",
-    type: "text",
-    required: true,
-  },
-]}
-className="myForm"
-/> 
-
- <form method="post" name="newsletter-subscribe" className="myForm">
-          <input type="hidden" name="form-name" value="contact" />
-          <label for="mce-EMAIL">
-            <input
-              type="email"
-              name="EMAIL"
-              className="myInput"
-              placeholder="Your e-Mail?"
-              required
-            />
-          </label>
-          <br />
-          <br />
-          <label for="mce-FNAME">
-            <br />
-            <input
-              type="text"
-              name="FNAME"
-              placeholder="Your name?"
-              className="myInput"
-              id="mce-FNAME"
-              required
-            />
-          </label>
-          <br />
-          <br />
-          <button type="submit">
-            <b>Subscribe</b>
-          </button>
-        </form>*/
-}
