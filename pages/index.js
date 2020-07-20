@@ -21,20 +21,6 @@ export default function Home() {
           content="Let me take you for a ride into the newest technology and all the possibilities it gives us to earn our money independant from everything."
         />
         <link rel="icon" href="/favicon.ico" />
-        {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
-        <script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=UA-160662945-3"
-        ></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: ` window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-          
-            gtag('config', 'UA-160662945-3');`,
-          }}
-        />
       </Head>
       <LandingBanner />
     </>

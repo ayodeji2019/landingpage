@@ -20,20 +20,6 @@ const Voomo = () => {
           content="You always wondered how so many people were able to build up independancy and self-employment without having to worry about financial aspects anymore? I will teach you right here!"
         />
         <link rel="icon" href="/favicon.ico" />
-        {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
-        <script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=UA-160662945-3"
-        ></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: ` window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-          
-            gtag('config', 'UA-160662945-3');`,
-          }}
-        />
       </Head>
 
       <VoomoCard />
